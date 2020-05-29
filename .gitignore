@@ -49,8 +49,3 @@ builds/**/images/*
 # security / ssl
 *.pem
 *.xxjson
-
-# Elastic Beanstalk Files
-.elasticbeanstalk/*
-!.elasticbeanstalk/*.cfg.yml
-!.elasticbeanstalk/*.global.ym
